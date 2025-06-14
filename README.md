@@ -22,3 +22,18 @@ This project is a simple Python script that reads a text file, extracts all vali
 python task_automation_with_python_scripts.py
 
 
+4. Extracted emails will be saved in emails_extracted.txt.
+
+🧪 Sample Input and Output
+
+input.txt
+
+Hello Priya, contact us at hr@codealpha.com or support@domain.org.
+Backup: test.email@college.edu, admin123@company.in
+
+Output → emails_extracted.txt
+
+hr@codealpha.com
+support@domain.org
+test.email@college.edu
+admin123@company.in
