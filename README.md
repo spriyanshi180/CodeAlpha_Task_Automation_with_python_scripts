@@ -19,10 +19,10 @@ This project is a simple Python script that reads a text file, extracts all vali
 3. Run the script with this command:
 
 ```bash
-python task_automation_with_python_scripts.py
+python task_automation_with_python_scripts.py '
 
 
-4. Extracted emails will be saved in 'emails_extracted.txt.
+4. Extracted emails will be saved in emails_extracted.txt.
 
 🧪 Sample Input and Output
 
