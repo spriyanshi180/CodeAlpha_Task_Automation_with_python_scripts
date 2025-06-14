@@ -23,7 +23,7 @@ python task_automation_with_python_scripts.py
 
 4. Extracted emails will be saved in emails_extracted.txt.
 
-# 🧪 Sample Input and Output
+🧪 Sample Input and Output
 
 input.txt
 
